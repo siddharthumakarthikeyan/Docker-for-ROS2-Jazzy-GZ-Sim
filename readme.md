@@ -7,7 +7,7 @@ It supports both simulation and development workflows with hardware-accelerated 
 ```bash
 cd
 mkdir -p /ros_ws && cd /ros_ws
-git clone https://github.com/siddharthumakarthikeyan/Docker-for-ROS2-Jazzy-GZ-Sim.git
+git clone https://github.com/siddharthumakarthikeyan/Docker-for-ROS2-Jazzy-GZ-Sim.git .
 ```
 
 ---
